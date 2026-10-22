@@ -14,7 +14,7 @@
 Estudio 2.º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y trabajo desde 2022 como **Service Support Specialist** en Evolution, donde analizo logs con Kibana y gestiono incidencias en JIRA en un entorno internacional de alta disponibilidad. Busco prácticas en **desarrollo de software o QA/testing**.
 
 <p align="center">
-  <img src="about.svg" width="100%" alt="Ubicación: Madrid · Experiencia: Service Support Specialist en Evolution desde 2022 · Formación: DAM en la Universidad Europea · Aprendiendo: Android con Java, JavaFX, AWS y Spring Boot · Dato curioso: viví un año en Tokio estudiando en la Rikkyo University" />
+  <img src="about.svg" width="620" alt="Ubicación: Madrid · Experiencia: Service Support Specialist en Evolution desde 2022 · Formación: DAM en la Universidad Europea · Aprendiendo: Android con Java, JavaFX, AWS y Spring Boot · Dato curioso: viví un año en Tokio estudiando en Rikkyo University" />
 </p>
 
 ---
