@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1A33"/>
+      <stop offset="100%" stop-color="#123A63"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="330" rx="14" fill="url(#bg)"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+
+    <!-- Fila 1: Ubicación -->
+    <g transform="translate(0,20)">
+      <circle cx="56" cy="30" r="22" fill="#2F80ED" fill-opacity="0.18"/>
+      <path d="M56 18c-5.5 0-9.5 4-9.5 9.3 0 6.8 9.5 15.2 9.5 15.2s9.5-8.4 9.5-15.2C65.5 22 61.5 18 56 18z" fill="#5AA2F5"/>
+      <circle cx="56" cy="27.5" r="3.4" fill="#0A1A33"/>
+      <text x="100" y="24" font-size="12" font-weight="700" fill="#7FA6CF" letter-spacing="1.5">UBICACIÓN</text>
+      <text x="100" y="46" font-size="18" fill="#FFFFFF">Madrid, España</text>
+    </g>
+
+    <!-- Fila 2: Experiencia -->
+    <g transform="translate(0,78)">
+      <circle cx="56" cy="30" r="22" fill="#27AE60" fill-opacity="0.18"/>
+      <rect x="45" y="24" width="22" height="15" rx="2.5" fill="#4CD08A"/>
+      <rect x="51" y="19" width="10" height="6" rx="1.5" fill="none" stroke="#4CD08A" stroke-width="2.2"/>
+      <rect x="45" y="29" width="22" height="2" fill="#0A1A33" fill-opacity="0.5"/>
+      <text x="100" y="24" font-size="12" font-weight="700" fill="#7FA6CF" letter-spacing="1.5">EXPERIENCIA</text>
+      <text x="100" y="46" font-size="18" fill="#FFFFFF">Service Support Specialist en Evolution · desde 2022</text>
+    </g>
+
+    <!-- Fila 3: Formación -->
+    <g transform="translate(0,136)">
+      <circle cx="56" cy="30" r="22" fill="#9B51E0" fill-opacity="0.18"/>
+      <polygon points="56,19 70,26 56,33 42,26" fill="#B98AF0"/>
+      <path d="M48 29.5v6c0 2.5 3.6 4.5 8 4.5s8-2 8-4.5v-6l-8 4z" fill="#B98AF0"/>
+      <line x1="68" y1="27" x2="68" y2="35" stroke="#B98AF0" stroke-width="1.8"/>
+      <text x="100" y="24" font-size="12" font-weight="700" fill="#7FA6CF" letter-spacing="1.5">FORMACIÓN</text>
+      <text x="100" y="46" font-size="18" fill="#FFFFFF">Desarrollo de Aplicaciones Multiplataforma · Universidad Europea</text>
+    </g>
+
+    <!-- Fila 4: Aprendiendo -->
+    <g transform="translate(0,194)">
+      <circle cx="56" cy="30" r="22" fill="#F2994A" fill-opacity="0.18"/>
+      <path d="M64.5 25.5A9.5 9.5 0 1 0 65.5 33" fill="none" stroke="#F5B26B" stroke-width="2.6" stroke-linecap="round"/>
+      <polygon points="66.5,19.5 67,28 59,26" fill="#F5B26B"/>
+      <text x="100" y="24" font-size="12" font-weight="700" fill="#7FA6CF" letter-spacing="1.5">APRENDIENDO</text>
+      <text x="100" y="46" font-size="18" fill="#FFFFFF">Android con Java · JavaFX · AWS · Spring Boot</text>
+    </g>
+
+    <!-- Fila 5: Dato curioso (torii) -->
+    <g transform="translate(0,252)">
+      <circle cx="56" cy="30" r="22" fill="#EB5757" fill-opacity="0.18"/>
+      <path d="M42 21.5q14 -3 28 0l-0.8 3.2q-13.2 -2.4 -26.4 0z" fill="#F07B7B"/>
+      <rect x="44.5" y="27" width="23" height="2.6" fill="#F07B7B"/>
+      <rect x="47.5" y="23" width="2.8" height="18" fill="#F07B7B"/>
+      <rect x="61.7" y="23" width="2.8" height="18" fill="#F07B7B"/>
+      <text x="100" y="24" font-size="12" font-weight="700" fill="#7FA6CF" letter-spacing="1.5">DATO CURIOSO</text>
+      <text x="100" y="46" font-size="18" fill="#FFFFFF">Viví un año en Tokio estudiando en la Rikkyo University</text>
+    </g>
+  </g>
+
+  <!-- Separadores -->
+  <g stroke="#FFFFFF" stroke-opacity="0.07">
+    <line x1="100" y1="88" x2="800" y2="88"/>
+    <line x1="100" y1="146" x2="800" y2="146"/>
+    <line x1="100" y1="204" x2="800" y2="204"/>
+    <line x1="100" y1="262" x2="800" y2="262"/>
+  </g>
+</svg>
