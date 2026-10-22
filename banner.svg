@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1A33"/>
+      <stop offset="55%" stop-color="#14396B"/>
+      <stop offset="100%" stop-color="#1F6F8B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7FB3E6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7FB3E6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7FB3E6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#grid)"/>
+
+  <!-- Líneas de "código" decorativas a la derecha -->
+  <g font-family="Menlo, Consolas, 'Courier New', monospace" font-size="13" fill="#9CC3EA" fill-opacity="0.22">
+    <text x="860" y="62">public class Ana {</text>
+    <text x="880" y="84">String ciclo = "DAM";</text>
+    <text x="880" y="106">String[] stack = {"Java", "SQL"};</text>
+    <text x="880" y="128">boolean buscaPracticas = true;</text>
+    <text x="860" y="150">}</text>
+    <text x="860" y="192">SELECT * FROM retos</text>
+    <text x="860" y="214">WHERE aprendizaje = 'continuo';</text>
+  </g>
+
+  <!-- Nombre y titular -->
+  <text x="70" y="128" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="1">Ana Belén Rueda Reina</text>
+  <rect x="70" y="152" width="440" height="3" fill="url(#line)"/>
+  <text x="72" y="194" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#CFE2F7">Estudiante de DAM  ·  Desarrollo de aplicaciones con Java y SQL</text>
+  <text x="72" y="228" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9CC3EA">Service Support Specialist  ·  Madrid</text>
+</svg>
